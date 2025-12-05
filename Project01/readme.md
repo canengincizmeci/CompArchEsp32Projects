@@ -13,6 +13,7 @@ In the 11th line the '%0' term is result variable and we  move the result from r
 
 
 THE OUTPUT ON THE SERIAL MONITOR
+
 <img width="574" height="231" alt="githuba at" src="https://github.com/user-attachments/assets/d883862e-1b0f-47f7-82ab-6e48c7c60bac" />
 
 
