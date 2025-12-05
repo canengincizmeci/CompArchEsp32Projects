@@ -13,15 +13,6 @@ In the 11th line the '%0' term is result variable and we  move the result from r
 
 
 THE OUTPUT ON THE SERIAL MONITOR
-ts Jul 29 2019 12:21:46
+<img width="574" height="231" alt="githuba at" src="https://github.com/user-attachments/assets/d883862e-1b0f-47f7-82ab-6e48c7c60bac" />
 
-rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
-configsip: 0, SPIWP:0xee
-clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
-mode:DIO, clock div:1
-load:0x3fff0030,len:4980
-load:0x40078000,len:16612
-load:0x40080400,len:3500
-entry 0x400805b4
-2 + 3 = 5
-ets Jul 29 2019 12:21:46
+
