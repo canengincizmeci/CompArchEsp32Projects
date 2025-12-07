@@ -33,7 +33,7 @@ asm (
     : output operands
     : input operands
     : clobbers  -> this is our last of code 29th line
-);
+)
 
 THE OUTPUT ON THE SERIAL MONITOR
 
