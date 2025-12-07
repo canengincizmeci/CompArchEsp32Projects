@@ -35,4 +35,8 @@ asm (
     : clobbers  -> this is our last of code 29th line
 );
 
+THE OUTPUT ON THE SERIAL MONITOR
+
+<img width="590" height="185" alt="esp32ikinciresim" src="https://github.com/user-attachments/assets/e0e22712-41dc-473f-8c6f-c649517f6e70" />
+
 
