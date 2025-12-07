@@ -26,6 +26,7 @@ void setup() {
     "mov %0, a2\n"             
     : "=r"(sum)
     : "r"(arr), "r"(length)
+     : "a2", "a3", "a4", "a5"
   );
 
   Serial.print("Sum of the array: ");
